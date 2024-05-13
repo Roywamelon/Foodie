@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Foodie\bin\Debug\net8.0\Foodie.exe
+C:\Users\User\Desktop\Foodie\bin\Debug\net8.0\Foodie.deps.json
+C:\Users\User\Desktop\Foodie\bin\Debug\net8.0\Foodie.runtimeconfig.json
+C:\Users\User\Desktop\Foodie\bin\Debug\net8.0\Foodie.dll
+C:\Users\User\Desktop\Foodie\bin\Debug\net8.0\Foodie.pdb
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\Foodie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\Foodie.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\Foodie.AssemblyInfo.cs
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\Foodie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\Foodie.dll
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\refint\Foodie.dll
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\Foodie.pdb
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\Foodie.genruntimeconfig.cache
+C:\Users\User\Desktop\Foodie\obj\Debug\net8.0\ref\Foodie.dll
